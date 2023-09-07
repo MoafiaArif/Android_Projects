@@ -10,7 +10,7 @@ This repository includes:
 
 # Getting Started
 
-1.Explore the Contents: Navigate to the app->src->and you will find activity_main.xml file, MainActivity.java, colors.xml and strings.xml
+1.Explore the Contents: Find activity_main.xml file, MainActivity.java, colors.xml and strings.xml in files.
 
 2.Contribute: If you'd like to contribute to this repository by adding your own code samples, projects, or improvements, feel free to submit pull requests. Please 
   follow the repository's guidelines and code of conduct when contributing.
